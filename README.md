@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UX Engineer
 -----------
 
+I'm a designer who codes, living and working in Stockholm 🇸🇪. I enjoyed working with different types of products and projects. I collaborate daily with Product and Engineering teams to build a great product. I helped projects and teams in Germany, Finland, Norway, Denmark, and Sweden to develop products with great user experience and user friendly. With experiences both in design and front-end engineering, I am a strong bridge between ideation and implementation.
+
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [viyanateaa@gmail.com](mailto:viyanateaa@gmail.com)
 * 🧠  I'm learning Angular,typescript
