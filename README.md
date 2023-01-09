@@ -6,6 +6,9 @@ UX Engineer
 
 I'm a designer who codes, living and working in Stockholm 🇸🇪. I enjoyed working with different types of products and projects. I collaborate daily with Product and Engineering teams to build a great product. I helped projects and teams in Germany, Finland, Norway, Denmark, and Sweden to develop products with great user experience and user friendly. With experiences both in design and front-end engineering, I am a strong bridge between ideation and implementation.
 
+
+<img align="left" width="150" height="150" src="https://github.com/starblazingunicorn/starblazingunicorn/blob/main/octocatviyan.png">
+
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [viyanateaa@gmail.com](mailto:viyanateaa@gmail.com)
 * 🧠  I'm learning Angular,typescript
