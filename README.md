@@ -11,7 +11,6 @@ I'm a designer who codes, living and working in Stockholm 🇸🇪. I have a dee
 
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [viyanateaa@gmail.com](mailto:viyanateaa@gmail.com)
-* 🧠  I'm learning Angular.
 * 🤝  I'm open to collaborating on Design Systems
 
 ### Skills
